@@ -1,2 +1,2 @@
 # Fieldlookups project
-# Tech stack :- python, HTML
+# Tech stack :- python,HTML
